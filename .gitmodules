@@ -1,0 +1,3 @@
+[submodule "lib/AsyncGSM"]
+	path = lib/AsyncGSM
+	url = https://github.com/karioja/AsyncGSM.git

@@ -2,6 +2,7 @@
 #include <ArduCAM.h>
 #include <SPI.h>
 #include "memorysaver.h"
+#include "AsyncGSM.h"
 
 // set pin 4 as the slave select for the digital pot:
 const int CS = 10;
